@@ -1,0 +1,90 @@
+=================================== Hyper Paramter Tuning Results =========================================
+
+Best: 0.983000 using {'batch_size': 64, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.001}
+0.288017 (0.015817) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.01}
+0.979800 (0.000467) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.001}
+0.967817 (0.000950) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.157433 (0.052167) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.01}
+0.980767 (0.000600) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.001}
+0.974333 (0.001500) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.099817 (0.002617) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.01}
+0.979017 (0.001183) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.001}
+0.973583 (0.000917) with: {'batch_size': 32, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.109683 (0.004417) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.01}
+0.979217 (0.001083) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.001}
+0.973600 (0.000767) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.306200 (0.122733) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.01}
+0.981617 (0.002183) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.001}
+0.975517 (0.000383) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.239117 (0.148150) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.01}
+0.981767 (0.000333) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.001}
+0.975617 (0.000150) with: {'batch_size': 32, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.185433 (0.087333) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.01}
+0.979700 (0.000800) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.001}
+0.978083 (0.000617) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.145367 (0.034667) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.01}
+0.982000 (0.000400) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.001}
+0.977967 (0.000200) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.187267 (0.011667) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.01}
+0.982367 (0.000100) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.001}
+0.981250 (0.000950) with: {'batch_size': 32, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.155533 (0.056800) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.01}
+0.975683 (0.000783) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.001}
+0.962517 (0.000083) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.156750 (0.007050) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.01}
+0.979567 (0.000933) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.001}
+0.967700 (0.001400) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.105067 (0.005900) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.01}
+0.979633 (0.001167) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.001}
+0.970000 (0.000633) with: {'batch_size': 64, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.105067 (0.006333) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.01}
+0.978433 (0.002800) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.001}
+0.973917 (0.000483) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.300333 (0.110867) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.01}
+0.979600 (0.001500) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.001}
+0.972567 (0.000767) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.183667 (0.079533) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.01}
+0.980583 (0.000183) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.001}
+0.974467 (0.000800) with: {'batch_size': 64, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.483283 (0.050783) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.01}
+0.978983 (0.000550) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.001}
+0.973033 (0.000400) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.324083 (0.224917) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.01}
+0.981850 (0.001683) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.001}
+0.978567 (0.000633) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.384283 (0.033117) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.01}
+0.983000 (0.000900) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.001}
+0.978283 (0.001017) with: {'batch_size': 64, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.812100 (0.160600) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.01}
+0.975050 (0.000217) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.001}
+0.956067 (0.001633) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.976983 (0.001817) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.01}
+0.979167 (0.002967) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.001}
+0.958967 (0.001067) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.973500 (0.001833) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.01}
+0.980800 (0.000300) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.001}
+0.960633 (0.002733) with: {'batch_size': 128, 'epochs': 10, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.641767 (0.333667) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.01}
+0.977600 (0.001267) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.001}
+0.963333 (0.000400) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.963250 (0.005117) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.01}
+0.980867 (0.001133) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.001}
+0.970350 (0.001683) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.684500 (0.289533) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.01}
+0.979783 (0.001650) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.001}
+0.970650 (0.002150) with: {'batch_size': 128, 'epochs': 15, 'kernel_size': (4, 4), 'lr': 0.0001}
+0.734500 (0.232200) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.01}
+0.980867 (0.001533) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.001}
+0.966017 (0.001183) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (2, 2), 'lr': 0.0001}
+0.969083 (0.002583) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.01}
+0.981350 (0.001583) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.001}
+0.972300 (0.000033) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (3, 3), 'lr': 0.0001}
+0.969967 (0.006400) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.01}
+0.980267 (0.000233) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.001}
+0.972567 (0.001033) with: {'batch_size': 128, 'epochs': 20, 'kernel_size': (4, 4), 'lr': 0.0001}
+GridSearchCV(cv=2, error_score='raise-deprecating',
+       estimator=<keras.wrappers.scikit_learn.KerasClassifier object at 0x7f613b3ee940>,
+       fit_params=None, iid='warn', n_jobs=2,
+       param_grid={'batch_size': [32, 64, 128], 'lr': [0.01, 0.001, 0.0001], 'kernel_size': [(2, 2), (3, 3), (4, 4)], 'epochs': [10, 15, 20]},
+       pre_dispatch='2*n_jobs', refit=True, return_train_score='warn',
+       scoring=None, verbose=0)
